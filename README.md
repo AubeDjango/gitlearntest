@@ -1,1 +1,2 @@
 # gitlearntest
+today is friday
